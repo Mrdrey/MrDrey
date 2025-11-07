@@ -1,7 +1,6 @@
 # Hi there, I'm Mr drey! 👋
 
-🎓 **Fresh Graduate**  
-🧑‍💻 **Tech Stack:**  
+🧑‍💻**System Specialist**  
 <p align="center">
   <div style="display="">
       <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" style="height:40px; "/>
